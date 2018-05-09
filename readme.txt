@@ -1,1 +1,1 @@
-needs IO::Socket::IP to listern on IPv6
+needs IO::Socket::IP to listen on IPv6
